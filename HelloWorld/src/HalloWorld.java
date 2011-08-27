@@ -5,5 +5,6 @@ public class HalloWorld {
         System.out.println("The world");
         System.out.println("Star Platinum");
         System.out.println("Magician's Red");
+        System.out.println("Silver Chariots");
     }
 }
